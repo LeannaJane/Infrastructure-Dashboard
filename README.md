@@ -69,3 +69,5 @@ Copy the example file:
     cp ansible/hosts.example.ini ansible/hosts.ini
 ```
 Edit ansible/hosts.ini and replace the placeholders with your server IP, SSH username, and the path to your private key.
+
+<img width="697" height="439" alt="image" src="https://github.com/user-attachments/assets/9733c044-e8f6-402e-93e7-bc8b06fc0474" />

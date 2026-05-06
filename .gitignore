@@ -1,0 +1,18 @@
+# Infrastructure Secrets
+hosts.ini
+*.local
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Frontend
+node_modules/
+dist/
+.eslintcache
+
+# Logs and OS files
+*.log
+.DS_Store
